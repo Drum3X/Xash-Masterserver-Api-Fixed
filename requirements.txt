@@ -1,0 +1,5 @@
+asyncio
+asyncio_dgram
+pydantic
+fastapi
+uvicorn
