@@ -9,7 +9,8 @@ pip3 install -r requirements.txt
 
 # Run
 ```py
-python3 main.py
+# Arguments not requiered
+python3 main.py --ip <ip> --port <port> 
 ```
 
 # Use
